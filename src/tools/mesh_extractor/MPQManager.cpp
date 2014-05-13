@@ -8,7 +8,6 @@ char const* MPQManager::Files[] = {
     "common.MPQ",
     "common-2.MPQ",
     "expansion.MPQ",
-    "lichking.MPQ",
     "patch.MPQ",
     "patch-2.MPQ",
     "patch-3.MPQ"
